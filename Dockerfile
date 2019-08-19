@@ -1,5 +1,5 @@
-FROM capside/nodejs:v4.1.0
-MAINTAINER Javi Moreno <javi.moreno@capside.com>
+FROM cesarmoretti/curso:v4.1.0
+MAINTAINER Cesar Moretti <cesarmoretti@gmail.com>
 
 
 RUN wget https://raw.githubusercontent.com/capside/docker-webinar-azure/master/webservice.js \ 
